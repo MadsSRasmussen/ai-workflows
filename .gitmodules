@@ -1,0 +1,6 @@
+[submodule "python-api"]
+	path = python-api
+	url = git@github.com:MadsSRasmussen/ai-workflows-python-api.git
+[submodule "vue-app"]
+	path = vue-app
+	url = git@github.com:MadsSRasmussen/ai-workflows-vue-app.git
