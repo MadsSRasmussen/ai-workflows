@@ -4,3 +4,6 @@
 [submodule "vue-app"]
 	path = vue-app
 	url = git@github.com:MadsSRasmussen/ai-workflows-vue-app.git
+[submodule "express-api"]
+	path = express-api
+	url = git@github.com:MadsSRasmussen/ai-workflows-express-api.git
